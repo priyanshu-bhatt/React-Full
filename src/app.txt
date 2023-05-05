@@ -1,0 +1,72 @@
+{/* <h1 style={style1}> Hello I am {name}, and My Age is {age}</h1>
+      {/* <Header name={name}/>
+      <ClassBased name={name} number={number}/>
+      <Map skills={skills}/>
+      <Array0fObject student={student}/>
+      <Table table={table}/>
+      <ConditionalRender cond={condi} />
+      <AndAndRendering/>
+      <StateInClass/>
+      <StateInFunc/> */} 
+      {/* <TextArea/> */}
+      
+      {/* <FormsUncrolledClass/>
+      <UncontrolledFunctional/>
+      <ControlledClass/>
+      <ControlledFunctional/> */}
+      {/* <StateInClass/> */}
+      {/* <StateInFunc/> */}
+      {/* <UncontrolledFunctional/> */}
+      {/* <Button label={label} func={call}/>
+      <Form/><br/><br/>
+      <Counter/>
+      <br/><br/> */}
+      
+      {/* <MountingMethods namee="priyanssss"/> */}
+
+      {/* <UpdatingMethod name="priyanshu" /> */}
+      {/* <StyleToggle/> */}
+      {/* <ButtonWithColor/> */}
+      {/* <UseEffectss/> */}
+      {/* <UseReducerr/> */}
+      {/* <APICLASSCALLING/> */}
+      {/* <APIFUNCTIONCALL/> */}
+      {/* <Routing/> */}
+      {/* <LazyMain/> */}
+      {/* <ErrorBoundary>
+      <INCRE/>
+      
+      </ErrorBoundary> */}
+      
+     {/* <FuncBalance/>
+     <Balace/> */}
+     {/* <Main/> */}
+     {/* <Validation/> */}
+     {/* <First/> */}
+     {/* <Imageslide images={images} /> */}
+     {/* <SearchFilter/> */}
+    {/* <ReactMap items={items}/>  */}
+    
+    {/* <LastName.Provider value={"Bhatt"}>
+      <FirstName.Provider value={"Priyanshu"}>
+      <CompA/>
+      </FirstName.Provider>
+    </LastName.Provider> */}
+
+{/* <MainPractice/> */}
+{/* <ControlledFunctional/> */}
+{/* <APICLASSCALLING/> */}
+      {/* <APIFunction/> */}
+      {/* <HideVisibleForm/> */}
+      
+      {/* <Accordionnnn
+        title="Accordion 1"
+        content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id convallis nisl, quis dictum libero. In hac habitasse platea dictumst."
+      />
+      <Accordionnnn
+        title="Accordion 2"
+        content="Praesent porttitor tortor justo, eget malesuada enim auctor at. Proin vitae lacus semper, tempor libero ac, tristique urna."
+      /> */}
+      {/* <Checklist/>
+      <DisableButton/>
+      <HideElement/> */}
